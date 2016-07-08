@@ -1,0 +1,338 @@
+http://asktom.memphis.edu
+
+
+
+
+
+
+
+Find Answers
+
+
+
+
+
+.rn_ScreenReaderOnly{position:absolute; height:1px; left:-10000px; overflow:hidden; top:auto; width:1px;}
+.rn_Hidden{display:none;}
+
+
+
+.rn_LoginDialog2{width: 210px;}
+.rn_LoginDialog2.rn_ContentLoading{background:url(/euf/rightnow/optimized/1447696760/themes/standard/images/loading.gif) no-repeat center center;}
+.rn_LoginDialog2 input{margin-bottom:5px;}
+.rn_LoginDialog2 input[type="text"], .rn_LoginDialog2 input[type="password"]{width:200px;}
+.rn_LoginDialog2 label{margin-bottom:5px;display:block;}
+.rn_LoginDialog2 div{margin-bottom: 5px;}
+.rn_NavigationTab2{display:inline-block;}
+.rn_NavigationTab2 a{cursor:pointer;float:left;font-size:1em;font-weight:bold;height:20px;_height:18px;margin-right:4px;padding:5px 20px;position:relative;}
+.rn_NavigationTab2 .rn_DropDown{padding-right:28px;}
+.rn_NavigationTab2 a em{display:block;font-size:xx-small;height:18px;margin:3px 4px 0 0;position:absolute;right:0;top:0;width:20px;}
+.rn_NavigationTab2 .rn_SubNavigation{display:block;float:none;position:absolute;z-index:1;width:150px;}
+.rn_NavigationTab2 .rn_SubNavigation.rn_Hidden, .rn_NavigationTab2.rn_Hidden{display:none;}
+.rn_NavigationTab2 .rn_SubNavigation a{display:block;float:none;margin:0;padding:5px 0 0 10px;width:140px;}
+.rn_NavigationTab2 a{background:#EEEEEE url(/euf/rightnow/optimized/1447696760/themes/standard/images/tabBackground.png) repeat-x scroll 0 -22px;border-top:1px solid #FFF;color:#202020;text-decoration:none;}
+.rn_NavigationTab2 a:hover, .rn_NavigationTab2 a:focus{background-color: #F8F8F8;background-position:0 -18px;color:#000;}
+.rn_NavigationTab2 a:focus{outline:thin dotted #FFF;}
+.rn_NavigationTab2 a.rn_SelectedTab{background:#1F5393 url(/euf/rightnow/optimized/1447696760/themes/standard/images/tabBackground.png) repeat-x scroll 0 -22px;color:#FFFFFF;}
+.rn_NavigationTab2 a em{background:url(/euf/rightnow/optimized/1447696760/themes/standard/images/tabBackground.png) no-repeat 0 0;color:#000;font-size:0em;}
+.rn_NavigationTab2 a:hover em, .rn_NavigationTab2 a:focus em{background-position:-20px 0;}
+.rn_NavigationTab2 .rn_SubNavigation{background:#FFF none repeat scroll 0 0;border:1px solid #CCC;padding:10px 0 0;top:100px;}
+.rn_NavigationTab2 .rn_SubNavigation a{background:#FFF;border:none;color:#404040;height:auto !important;height:23px;margin-bottom:1px;min-height:23px;text-transform: none;}
+.rn_NavigationTab2 .rn_SubNavigation a:hover{background:#EEE;}
+.rn_NavigationTab2 .rn_SubNavigation a:focus{outline:thin dotted #777;}
+.rn_RightNowLogo a{background:url(/euf/rightnow/images/PoweredByOracle.png) no-repeat scroll right 0 !important;display:block !important;height:29px !important;width:134px !important;}
+.rn_RightNowLogo a:focus, .rn_RightNowLogo a:hover{background-position:right -37px !important;}
+
+
+
+
+
+
+
+
+
+Skip Navigation
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+Scripting must be enabled to use this site.
+
+Log In | Sign Up
+
+
+
+
+Username
+
+Password
+
+
+Forgot your username or password?
+
+
+
+
+
+
+
+
+
+Answers
+
+
+
+ 
+
+Live Chat
+
+
+
+
+
+Your Account
+
+
+
+Account Overview
+Support History
+Account Settings
+Notifications
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+Advanced Search
+
+
+
+Search terms
+
+
+
+
+
+Screen Reader users press enter to Limit by category. 
+Limit by category
+This button does not work with screen readers. Please use the previous link instead. Select a category
+
+
+
+
+
+Sort by
+
+Default
+Summary
+New or Updated
+Description
+Date Updated
+
+Direction
+
+Ascending
+Descending
+
+
+
+Search Tips
+
+
+
+Find the answer to your question
+
+
+
+
+
+
+
+
+Search filters applied
+
+
+
+
+
+Search Results
+
+
+        Other Suggested Searches            
+
+        Did you mean:            
+
+        No results found.        
+        Suggestions:Make sure all words are spelled correctlyUse different words that mean the same thing 
+
+            Results 1 - 10 of 779 
+
+
+Recommended Links
+
+
+
+
+
+
+
+How can I change my password when I have forgotten it or it has expired?
+
+If you've forgotten your password, or it's expired, the first step will be to try your security questions: Visit: http://iam.memphis.edu Click Forgot Your Password ? Fill out the requested...
+Date Updated:  
+05/21/2015 
+
+
+How can I view my unofficial transcript if I no longer have an active UM portal account?
+
+Call the Information Technology Helpdesk at (901) 678-8888 and request that a temporary myMemphis portal account be established for you. This account will be active for 24 hours only; however, this...
+Date Updated:  
+10/22/2015 
+
+
+umDrive: How do you share files in umDrive?
+
+To share files with others in umDrive follow these steps: Click the Home link. Navigate to the file or folder you wish to share . Right-Click the selected file or folder. Select the Share option. You...
+Date Updated:  
+05/21/2015 
+
+
+How do I look up my UUID?
+
+The easiest way to find your UUID is through  whitepages , which is the University of Memphis electronic phone book.  1) Visit http://wp.memphis.edu/ 2) Type in your name. 3) Select Submit...
+Date Updated:  
+05/27/2015 
+
+
+Requirements for Auditioning for Marching Band
+
+Students who want to be a member of the marching band, the Mighty Sound of the South, and do not plan to major or minor in music, may call 901-678-2263 to schedule a Marching Band Audition.
+Date Updated:  
+07/06/2015 
+
+
+What is a Universal User ID (UUID)?
+
+A Universal User ID (UUID) is your username for using the computing services offered for students, faculty, and staff of the University of Memphis. Your UUID forms your email address as follows...
+Date Updated:  
+05/26/2015 
+
+
+I need to use a computer lab at night, where can I go?
+
+The University's Technology Hub is an extended hour lab available when other computer labs on campus are closed. It is located in the University Center, room 265. Please see the lab doors for posted...
+Date Updated:  
+06/19/2015 
+
+
+Can I purchase Microsoft products at discounted rates as a student?
+
+The University of Memphis has negotiated with several hardware and software vendors to provide special pricing for personal purchases by students, faculty, and staff.  You can find a listing of...
+Date Updated:  
+05/26/2015 
+
+
+How do I find a person's email address?
+
+To find an individual's email address, visit the University's homepage at www.memphis.edu . At the top right of the page, you will find a "Directories" box located to the left of the search...
+Date Updated:  
+05/26/2015 
+
+
+How do I change my major?
+
+If you are an undergraduate student, go to the Dean's Office of the college of your NEW major and request the change. If you are a graduate student, contact Graduate Admissions at 101 Wilder...
+Date Updated:  
+07/10/2014 
+
+
+
+
+
+
+            < Previous        
+
+1
+2
+3
+4
+5
+6
+
+
+            Next >        
+
+
+
+
+
+
+
+
+
+Powered By Oracle
+
+
+
+
+
+
+
+
+
+/* <![CDATA[ */
+RightNow.Url.setParameterSegment(5);
+RightNow.Event.setNoSessionCookies(true);
+RightNow.Interface.Constants = 
+{"ACTION_ADD":1,"ANY_FILTER_VALUE":"~any~","EUF_DT_CHECK":12,"EUF_DT_DATE":1,"EUF_DT_DATETIME":2,"EUF_DT_FATTACH":11,"EUF_DT_HIERMENU":9,"EUF_DT_INT":5,"EUF_DT_MEMO":6,"EUF_DT_PASSWORD":7,"EUF_DT_RADIO":3,"EUF_DT_SELECT":4,"EUF_DT_THREAD":10,"EUF_DT_VARCHAR":8,"INT_NULL":-2147483647,"CAN_USE_ARIA":false,"API_VALIDATION_REGEX_EMAIL":"((([-_!#$%&'*+\/=?^~`{|}\\w]+(\\.[.]?[-_!#$%&'*+\/=?^~`{|}\\w]+)*)|(\"[^\"]+\"))@[0-9A-Za-z]+([\\-]+[0-9A-Za-z]+)*(\\.[0-9A-Za-z]+([\\-]+[0-9A-Za-z]+)*)+[;, ]*)+"};
+RightNow.Interface.setMessagebase(function(){return {"WARNING_LBL":"Warning","INFORMATION_LBL":"Information","HELP_LBL":"Help","ERROR_REQUEST_ACTION_COMPLETED_MSG":"There was an error with the request and the action could not be completed.","OK_LBL":"OK","DIALOG_LBL":"dialog","DIALOG_PLEASE_READ_TEXT_DIALOG_MSG_MSG":"dialog, please read above text for dialog message","BEG_DIALOG_PLS_DISMISS_DIALOG_BEF_MSG":"Beginning of dialog, please dismiss dialog before continuing","END_DIALOG_PLS_DISMISS_DIALOG_BEF_MSG":"End of dialog, please dismiss dialog before continuing","ERR_SUBMITTING_FORM_DUE_INV_INPUT_LBL":"There was an error submitting the form due to invalid input","ERR_SUBMITTING_SEARCH_MSG":"There was a problem with your request.  Please change your search terms and try again.","CLOSE_CMD":"Close","BACK_LBL":"Back","CANCEL_CMD":"Cancel","NO_VAL_LBL":"No Value","SELECTION_PCT_S_ACTIVATE_LINK_JUMP_MSG":"The current selection is: '%s'. Activate this link to jump to the current selection.","PCT_S_LNKS_DEPTH_ANNOUNCED_MSG":"%s below using the links provided. Depth is announced as you navigate through the list.","PRODUCT_LBL":"Product","CATEGORY_LBL":"Category","SEARCH_TYPE_LBL":"Search Type","ORGANIZATION_LBL":"Organization","CUSTOM_LBL":"Custom","PCT_S_MUST_NOT_CONTAIN_SPACES_MSG":"%s must not contain spaces.","USERNAME_LBL":"Username","PCT_S_CONTAIN_DOUBLE_QUOTES_MSG":"%s must not contain double quotes.","PCT_S_CNT_THAN_MSG":"%s must not contain either '<' or '>'"};});
+RightNow.Interface.setConfigbase(function(){return {"DE_VALID_EMAIL_PATTERN":"^(([-!#$%&'*+\/=?^~`{|}\\w]+(\\.[-!#$%&'*+\/=?^~`{|}\\w]+)*)|(\"[^\"]+\"))@[0-9A-Za-z]+(-[0-9A-Za-z]+)*(\\.[0-9A-Za-z]+(-[0-9A-Za-z]+)*)+$","CP_HOME_URL":"answers\/list","CP_FILE_UPLOAD_MAX_TIME":300,"OE_WEB_SERVER":"asktom.custhelp.com"};});
+YAHOO.util.Event.onDOMReady(function(){this.Dialog.setRenderDiv(); this.prepareVirtualBufferUpdateTrigger(); this.ariaHideFrames();}, null, RightNow.UI);
+YAHOO.util.Event.onDOMReady(function(){
+var W = RightNow.Widget,
+c = 'createWidgetInstance';
+W[c]({"i":{"c":"LoginDialog2","n":"LoginDialog2_3","w":3},"a":{"trigger_element":"rn_LoginLink","label_username":"Username","label_password":"Password","label_login_button":"Log In","label_cancel_button":"Cancel","label_dialog_title":"Please log in to continue","label_assistance":"Forgot your username or password?","disable_password":false,"append_to_url":"","redirect_url":"","assistance_url":"\/app\/utils\/account_assistance","open_login_url":"","label_open_login_link":"Log in using a third-party account","disable_password_autocomplete":false},"j":[]},'LoginDialog2_3','standard/login/LoginDialog2','LoginDialog2','3');
+W[c]({"i":{"c":"NavigationTab2","n":"NavigationTab2_4","w":4},"a":{"label_tab":"Answers","link":"\/app\/answers\/list","pages":["answers\/list","answers\/detail"],"subpages":"","css_class":"rn_SelectedTab","target":"_self","external":false,"searches_done":0},"j":[]},'NavigationTab2_4','standard/navigation/NavigationTab2','NavigationTab2','4');
+W[c]({"i":{"c":"NavigationTab2","n":"NavigationTab2_5","w":5},"a":{"label_tab":"Live Chat","link":"\/app\/chat\/chat_launch","pages":["\/app\/chat\/chat_launch"],"subpages":"","css_class":"selected","target":"_self","external":false,"searches_done":0},"j":[]},'NavigationTab2_5','standard/navigation/NavigationTab2','NavigationTab2','5');
+W[c]({"i":{"c":"NavigationTab2","n":"NavigationTab2_6","w":6},"a":{"label_tab":"Your Account","link":"\/app\/account\/overview","pages":["utils\/account_assistance","account\/overview","account\/profile","account\/notif","account\/change_password","account\/questions\/list","account\/questions\/detail","account\/notif\/list","utils\/login_form","utils\/create_account","utils\/submit\/password_changed","utils\/submit\/profile_updated"],"subpages":"Account Overview > \/app\/account\/overview, Support History > \/app\/account\/questions\/list, Account Settings > \/app\/account\/profile, Notifications > \/app\/account\/notif\/list","css_class":"rn_SelectedTab","target":"_self","external":false,"searches_done":0},"j":[]},'NavigationTab2_6','standard/navigation/NavigationTab2','NavigationTab2','6');
+W[c]({"i":{"c":"AdvancedSearchDialog","n":"AdvancedSearchDialog_8","w":8},"a":{"label_dialog_title":"Advanced Search","label_link":"Advanced Search","label_search_button":"Search","label_cancel_button":"Cancel","report_id":176,"report_page_url":"","search_tips_url":"\/app\/utils\/help_search","display_products_filter":true,"display_categories_filter":true,"display_sort_filter":true,"additional_filters":""},"j":[]},'AdvancedSearchDialog_8','standard/search/AdvancedSearchDialog','AdvancedSearchDialog','8');
+W[c]({"i":{"c":"KeywordText2","n":"KeywordText2_9","w":9},"a":{"report_id":176,"label_text":"Search terms","initial_focus":false},"j":{"initialValue":"","rnSearchType":"keyword","searchName":"keyword"}},'KeywordText2_9','standard/search/KeywordText2','KeywordText2','9');
+W[c]({"i":{"c":"ProductCategorySearchFilter","n":"ProductCategorySearchFilter_11","w":11},"a":{"label_input":"Limit by category","report_id":176,"filter_type":"categories","linking_off":false,"label_nothing_selected":"Select a category","label_confirm_button":"OK","label_cancel_button":"Cancel","label_accessible_interface":"This button does not work with screen readers. Please use the previous link instead.","label_screen_reader_selected":"Values selected:","label_screen_reader_accessible_option":"Screen Reader users press enter to %s.","report_page_url":"","search_on_select":false,"treeview_css":"\/rnt\/rnw\/yui_2.7\/treeview\/assets\/treeview-menu.css","show_confirm_button_in_dialog":false},"j":{"oper_id":10,"fltr_id":3,"linkingOn":0,"report_def":"~any~","searchName":"c","defaultData":false,"hierData":[[{"value":0,"label":"No Value"},{"value":199,"label":"-Unknown-","parentID":0,"selected":false,"hasChildren":0},{"value":260,"label":"Academics","parentID":0,"selected":false,"hasChildren":0},{"value":24,"label":"Admission","parentID":0,"selected":false,"hasChildren":1},{"value":70,"label":"Advising","parentID":0,"selected":false,"hasChildren":0},{"value":4,"label":"Alumni","parentID":0,"selected":false,"hasChildren":0},{"value":49,"label":"Athletics","parentID":0,"selected":false,"hasChildren":0},{"value":23,"label":"Fees &amp; Payments","parentID":0,"selected":false,"hasChildren":1},{"value":122,"label":"Continuing Education","parentID":0,"selected":false,"hasChildren":0},{"value":50,"label":"Financial Aid","parentID":0,"selected":false,"hasChildren":1},{"value":56,"label":"Future Students","parentID":0,"selected":false,"hasChildren":1},{"value":43,"label":"General","parentID":0,"selected":false,"hasChildren":1},{"value":105,"label":"Housing and Dining","parentID":0,"selected":false,"hasChildren":1},{"value":53,"label":"Human Resources","parentID":0,"selected":false,"hasChildren":1},{"value":187,"label":"Law School","parentID":0,"selected":false,"hasChildren":1},{"value":131,"label":"Libraries","parentID":0,"selected":false,"hasChildren":1},{"value":130,"label":"Marketing &amp; PR","parentID":0,"selected":false,"hasChildren":0},{"value":259,"label":"Newly Admitted Students","parentID":0,"selected":false,"hasChildren":0},{"value":54,"label":"President&#039;s Office","parentID":0,"selected":false,"hasChildren":0},{"value":19,"label":"Registrar","parentID":0,"selected":false,"hasChildren":1},{"value":67,"label":"Off Campus Classes","parentID":0,"selected":false,"hasChildren":1},{"value":262,"label":"Online Classes","parentID":0,"selected":false,"hasChildren":0},{"value":45,"label":"Student Affairs","parentID":0,"selected":false,"hasChildren":1},{"value":1,"label":"Technology","parentID":0,"selected":false,"hasChildren":1}]],"initial":[],"hm_type":14}},'ProductCategorySearchFilter_11','standard/search/ProductCategorySearchFilter','ProductCategorySearchFilter','11');
+W[c]({"i":{"c":"SortList2","n":"SortList2_12","w":12},"a":{"report_id":176,"label_text":"Sort by","label_default":"Default","label_ascending":"Ascending","label_descending":"Descending","search_on_select":false,"report_page_url":""},"j":{"headers":[{"heading":"Summary","width":"15.77608","data_type":5,"col_id":1,"order":0,"col_definition":"answers.summary","visible":true,"url_info":"\/app\/answers\/detail\/a_id\/&lt;5&gt;"},{"heading":"New or Updated","width":"14.5038166","data_type":5,"col_id":2,"order":1,"col_definition":"if (date_diff(date_trunc(sysdate(), DAYS), date_trunc(answers.created, DAYS)) \/ 86400 < $new, msg_lookup(5064), if(date_diff(date_trunc(sysdate(), DAYS), date_trunc(answers.updated, DAYS)) \/ 86400 < $updated, msg_lookup(6861)))","visible":true},{"heading":"Description","width":"12.9770994","data_type":6,"col_id":3,"order":2,"col_definition":"answers.solution","visible":true},{"heading":"Date Updated","width":"27.7353687","data_type":4,"col_id":4,"order":3,"col_definition":"answers.updated","visible":true}],"col_id":-1,"sort_direction":1,"searchName":"sort_args"}},'SortList2_12','standard/search/SortList2','SortList2','12');
+W[c]({"i":{"c":"KeywordText2","n":"KeywordText2_13","w":13},"a":{"report_id":176,"label_text":"Find the answer to your question","initial_focus":true},"j":{"initialValue":"","rnSearchType":"keyword","searchName":"keyword"}},'KeywordText2_13','standard/search/KeywordText2','KeywordText2','13');
+W[c]({"i":{"c":"SearchButton2","n":"SearchButton2_14","w":14},"a":{"report_id":176,"label_button":"Search","report_page_url":"","icon_path":"","icon_alt_text":"Search","target":"_self","popup_window":false,"popup_window_width_percent":"30","popup_window_height_percent":"42"},"j":[]},'SearchButton2_14','standard/search/SearchButton2','SearchButton2','14');
+W[c]({"i":{"c":"DisplaySearchFilters","n":"DisplaySearchFilters_15","w":15},"a":{"remove_icon_path":"images\/remove.png","label_filter_remove":"Remove","label_title":"Search filters applied","report_id":176},"j":{"filters":[],"defaultFilters":[{"name":"searchType","filterID":5}],"searchPage":"\/app\/answers\/list\/"}},'DisplaySearchFilters_15','standard/search/DisplaySearchFilters','DisplaySearchFilters','15');
+W[c]({"i":{"c":"ResultInfo2","n":"ResultInfo2_16","w":16},"a":{"report_id":176,"per_page":0,"label_suggestion":"Other Suggested Searches","label_dictionary":"This word was not found.","label_spell":"Did you mean:","label_no_results":"No results found.","label_no_results_suggestions":"Suggestions:<ul><li>Make sure all words are spelled correctly<\/li><li>Use different words that mean the same thing<\/li><\/ul>","label_common":"This word is very common and was excluded from the search.","label_results":"Results <span>%d<\/span> - <span>%d<\/span> of <span>%d<\/span>","label_results_search_query":"Results <span>%d<\/span> - <span>%d<\/span> of <span>%d<\/span> for %s","add_params_to_url":"p,c","display_results":true,"combined_results":"","display_knowledgebase_results":true},"j":{"linkUrl":"\/app\/answers\/list\/search\/1\/kw\/","totalResults":779,"lastResult":10,"firstResult":1,"searchTerm":"","combinedResults":0,"prunedAnswers":null,"social":null,"intent":null}},'ResultInfo2_16','standard/reports/ResultInfo2','ResultInfo2','16');
+W[c]({"i":{"c":"TopicWords2","n":"TopicWords2_17","w":17},"a":{"label_title":"Recommended Links","display_icon":true,"target":"_self","add_params_to_url":"kw","icon_path":""},"j":[]},'TopicWords2_17','standard/knowledgebase/TopicWords2','TopicWords2','17');
+W[c]({"i":{"c":"Multiline2","n":"Multiline2_18","w":18},"a":{"per_page":0,"report_id":176,"truncate_size":200,"max_wordbreak_trunc":null,"highlight":true,"label_screen_reader_search_success_alert":"Your search is complete","label_screen_reader_search_no_results_alert":"Your search returned no results","add_params_to_url":"kw","hide_when_no_results":false,"date_format":"short"},"j":{"filters":{"recordKeywordSearch":true,"per_page":0,"searchType":{"filters":{"rnSearchType":"searchType","fltr_id":5,"data":5,"oper_id":1,"report_id":176},"type":"searchType"},"keyword":{"filters":{"rnSearchType":"keyword","data":"","report_id":176},"type":"keyword"},"p":{"filters":{"fltr_id":2,"oper_id":10,"optlist_id":9,"report_id":176,"rnSearchType":"menufilter","data":[null]},"type":"map_prod_hierarchy","report_default":"~any~"},"c":{"filters":{"fltr_id":3,"oper_id":10,"optlist_id":12,"report_id":176,"rnSearchType":"menufilter","data":[null]},"type":"map_cat_hierarchy","report_default":"~any~"},"page":1},"format":{"truncate_size":200,"max_wordbreak_trunc":null,"emphasisHighlight":true,"dateFormat":"short","urlParms":"","tabindex":null},"r_tok":"bJ3_k2iZZpl6mWaZaplymVKZQplOmUyZUgf0B_wZ4BcHJQefnw!!"}},'Multiline2_18','standard/reports/Multiline2','Multiline2','18');
+W[c]({"i":{"c":"Paginator","n":"Paginator_19","w":19},"a":{"report_id":176,"per_page":0,"maximum_page_links":6,"forward_icon_path":"","back_icon_path":"","label_page":"Page %s of %s","label_forward":"Next &gt;","label_back":"&lt; Previous"},"j":{"startPage":1,"endPage":6,"pageUrl":"\/app\/answers\/list\/page\/","currentPage":1,"backPageUrl":"\/app\/answers\/list\/page\/0","forwardPageUrl":"\/app\/answers\/list\/page\/2"}},'Paginator_19','standard/reports/Paginator','Paginator','19');
+RightNow.Url.transformLinks();});
+/* ]]> */
+
+
+var _rnq=_rnq||[];_rnq.push({"s":"EKjwWMCm","uh":"e26d3b4e","uc":"asktom.custhelp.com\/app\/answers\/list","b":"ca5456","i":"asktom:asktom","f":"rnw","p":"Customer Portal","v":"13.11.0.1-b122-sp10","th":"www.rnengage.com"});
+(function(f){var b,d,a=document.createElement("iframe"),c=document.getElementsByTagName("script");a.src="javascript:false";a.title="";a.role="presentation";(a.frameElement||a).style.cssText="width:0;height:0;border:0";c=c[c.length-1];c.parentNode.insertBefore(a,c);try{b=a.contentWindow.document}catch(g){d=document.domain,a.src="javascript:var d=document.open();d.domain='"+d+"';void(0);",b=a.contentWindow.document}b.open()._l=function(){for(var a;f.length;)a=this.createElement("script"),d&&(this.domain=
+d),a.src=f.pop(),this.body.appendChild(a)};b.write('<body onload="document._l();">');b.close()})(["https://www.rnengage.com/api/e/ca5456/e.js","//www.rnengage.com/api/1/javascript/acs.js"]);
+
+
+
+

@@ -1,0 +1,113 @@
+http://adv-server2.memphis.edu/rel@ycampaigns/campaign2671/template.jsp
+
+
+
+
+
+Untitled Document
+
+body {
+	background-image: url();
+	background-repeat: repeat;
+}
+body,td,th {
+	font-family: Calibri, "Calibri Bold", sans-serif;
+	text-align: center;
+}
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+	color: #080000;
+}
+.media {	color: #666;font-size:x-small;}
+h2 {
+	font-size: 24px;
+}
+
+
+div.message_text
+{
+  TEXT-ALIGN: center;
+  FONT-FAMILY: verdana, courier, sans-serif;
+  TEXT-DECORATION: none;
+}
+div.message_text table
+{
+  margin: 0 auto;
+  text-align: left;
+}
+div.webpagelink_text
+{
+  TEXT-ALIGN: center;
+  MARGIN: 5px;
+  FONT-WEIGHT: small;
+  FONT-SIZE: 8pt;
+  COLOR: 4d4d4d;
+  FONT-FAMILY: verdana, courier, sans-serif;
+  TEXT-DECORATION: none;
+}div.footer_text
+{
+  TEXT-ALIGN: center;
+  MARGIN: 5px;
+  FONT-WEIGHT: small;
+  FONT-SIZE: 8pt;
+  COLOR: 4d4d4d;
+  FONT-FAMILY: verdana, courier, sans-serif;
+  TEXT-DECORATION: none;
+}
+div.subscribe_text
+{
+  TEXT-ALIGN: center;
+  MARGIN: 5px;
+  FONT-WEIGHT: small;
+  FONT-SIZE: 8pt;
+  COLOR: 4d4d4d;
+  FONT-FAMILY: verdana, courier, sans-serif;
+  TEXT-DECORATION: none;
+}
+div.unsubscribe_text
+{
+  TEXT-ALIGN: center;
+  MARGIN: 5px;
+  FONT-WEIGHT: small;
+  FONT-SIZE: 8pt;
+  COLOR: 4d4d4d;
+  FONT-FAMILY: verdana, courier, sans-serif;
+  TEXT-DECORATION: none;
+}
+div.mailpreference_text
+{
+  TEXT-ALIGN: center;
+  MARGIN: 5px;
+  FONT-WEIGHT: small;
+  FONT-SIZE: 8pt;
+  COLOR: 4d4d4d;
+  FONT-FAMILY: verdana, courier, sans-serif;
+  TEXT-DECORATION: none;
+}
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+This email was sent to hrowsey@memphis.edu, U00032305. To ensure that you continue receiving our  emails, please add us to your address book or safe list.This email was sent to you by the University of Memphis Alumni Association. If you wish to be removed from our mailing list, please go to this unsubscribe page. 
+

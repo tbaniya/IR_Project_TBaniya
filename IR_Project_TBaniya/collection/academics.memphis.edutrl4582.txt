@@ -1,0 +1,200 @@
+http://academics.memphis.edu/trl
+
+
+
+
+Technology Resource Locator
+
+
+
+function Selectbldg()
+{
+  // ON selection of building this function will work
+	// this function gets the buildings for a particular campus
+
+  removeAllOptions(document.myForm.building);
+
+  //Main Campus
+	if(document.myForm.campus.value == "Main_Campus")
+  {
+    addOption(document.myForm.building,"", "");
+//    addOption(document.myForm.building,"All", "All");
+    addOption(document.myForm.building,"Art and Communication Building", "Art & Communication Building");		
+    addOption(document.myForm.building,"Art Building", "Art Building");
+    addOption(document.myForm.building,"Ball Hall", "Ball Hall");
+    addOption(document.myForm.building,"Browning Hall", "Browning Hall");
+    addOption(document.myForm.building,"Clement Hall", "Clement Hall");
+    addOption(document.myForm.building,"Communication and Fine Arts", "Communication and Fine Arts"); 				  		  		
+    addOption(document.myForm.building,"Dunn Hall", "Dunn Hall");		
+    addOption(document.myForm.building,"Ellington Hall", "Ellington Hall");	
+    addOption(document.myForm.building,"Engineering Administration", "Engineering Administration");  		
+    addOption(document.myForm.building,"Engineering Science", "Engineering Science");		
+    addOption(document.myForm.building,"Engineering Technology", "Engineering Technology");			
+    addOption(document.myForm.building,"FedEx Institute of Technology", "FedEx Institute of Technology");  
+    addOption(document.myForm.building,"Fieldhouse", "Fieldhouse");			
+    addOption(document.myForm.building,"Fogelman College of Business", "Fogelman College of Business");		
+    addOption(document.myForm.building,"Hayden Hall", "Hayden Hall"); 	
+    addOption(document.myForm.building,"Honors Hall", "Honors Hall");
+    addOption(document.myForm.building,"Johnson Hall", "Johnson Hall");
+    addOption(document.myForm.building,"Jones Hall", "Jones Hall");		
+    addOption(document.myForm.building,"Kemmons Wilson School", "Kemmons Wilson School");  
+    addOption(document.myForm.building,"Life Sciences", "Life Sciences");			
+    addOption(document.myForm.building,"Living Learning Commons", "Living Learning Commons");		
+    addOption(document.myForm.building,"Manning Hall", "Manning Hall");		
+    addOption(document.myForm.building,"McCord Hall", "McCord Hall"); 
+		addOption(document.myForm.building,"McWherter Library", "McWherter Library");
+    addOption(document.myForm.building,"Meeman Journalism", "Meeman Journalism");     
+    addOption(document.myForm.building,"Mitchell Hall", "Mitchell Hall");
+    addOption(document.myForm.building,"Music", "Music");
+    addOption(document.myForm.building,"Mynders Hall", "Mynders Hall"); 	
+    addOption(document.myForm.building,"N A Smith Hall", "N A Smith Hall");
+    addOption(document.myForm.building,"Panhellenic Bldg.", "Panhellenic Bldg.");   
+    addOption(document.myForm.building,"Patterson Hall", "Patterson Hall");	
+    addOption(document.myForm.building,"Psychology", "Psychology");			
+    addOption(document.myForm.building,"Psychology Auditorium", "Psychology Auditorium");		
+    addOption(document.myForm.building,"Rawls Hall", "Rawls Hall"); 				  		
+    addOption(document.myForm.building,"Richardson Towers", "Richardson Towers");		
+    addOption(document.myForm.building,"Robison Hall", "Robison Hall");
+		addOption(document.myForm.building,"Smith Hall", "Smith Hall");
+    addOption(document.myForm.building,"South Hall", "South Hall"); 
+    addOption(document.myForm.building,"Theater Building", "Theater Building");
+    addOption(document.myForm.building,"University Center", "University Center");  
+  }
+
+  //Millington
+	if(document.myForm.campus.value == "Millington")
+  {
+    addOption(document.myForm.building,"", "");
+//    addOption(document.myForm.building,"All", "All");
+    addOption(document.myForm.building,"Millington Center", "Millington Center");
+  }
+
+  //Lambuth
+  if(document.myForm.campus.value == "Lambuth")
+  {
+    addOption(document.myForm.building,"", "");
+//    addOption(document.myForm.building,"All", "All");
+    addOption(document.myForm.building,"Lambuth - Hyde Hall", "Lambuth - Hyde Hall");
+    addOption(document.myForm.building,"Lambuth - Library", "Lambuth - Library");	
+    addOption(document.myForm.building,"Lambuth - Student Union Building", "Lambuth - Student Union Building");
+    addOption(document.myForm.building,"Lambuth - Varnell Jones", "Lambuth - Varnell Jones");
+  }		
+	
+  //Collierville
+	if(document.myForm.campus.value == "Collierville")
+  {
+    addOption(document.myForm.building,"", "");
+//    addOption(document.myForm.building,"All", "All");
+    addOption(document.myForm.building,"Carrier Center", "Carrier Center");
+  }
+	
+	//South Campus
+	if(document.myForm.campus.value == "South_Campus")
+  {
+    addOption(document.myForm.building,"", "");
+//    addOption(document.myForm.building,"All", "All");
+    addOption(document.myForm.building,"Audiology: South Campus", "Audiology: South Campus");
+    addOption(document.myForm.building,"Student Family Housing", "Student Family Housing");
+  }
+	
+  //Downtown
+	if(document.myForm.campus.value == "Downtown")
+  {
+    addOption(document.myForm.building,"", "");
+//    addOption(document.myForm.building,"All", "All");
+    addOption(document.myForm.building,"Audiology: Downtown", "Audiology: Downtown");
+    addOption(document.myForm.building,"Law School", "Law School");
+  }	
+
+  //Main Campus
+	if(document.myForm.campus.value == "")
+  {
+    addOption(document.myForm.building,"", "");
+//    addOption(document.myForm.building,"All", "All");
+    addOption(document.myForm.building,"Art and Communication Building", "Art & Communication Building");		
+    addOption(document.myForm.building,"Art Building", "Art Building");
+    addOption(document.myForm.building,"Audiology: Downtown", "Audiology: Downtown");		
+    addOption(document.myForm.building,"Audiology: South Campus", "Audiology: South Campus");		
+    addOption(document.myForm.building,"Ball Hall", "Ball Hall");
+    addOption(document.myForm.building,"Browning Hall", "Browning Hall");
+    addOption(document.myForm.building,"Carrier Center", "Carrier Center");		
+    addOption(document.myForm.building,"Clement Hall", "Clement Hall");
+    addOption(document.myForm.building,"Communication and Fine Arts", "Communication and Fine Arts"); 				  		  		
+    addOption(document.myForm.building,"Dunn Hall", "Dunn Hall");		
+    addOption(document.myForm.building,"Ellington Hall", "Ellington Hall");	
+    addOption(document.myForm.building,"Engineering Administration", "Engineering Administration");  		
+    addOption(document.myForm.building,"Engineering Science", "Engineering Science");		
+    addOption(document.myForm.building,"Engineering Technology", "Engineering Technology");			
+    addOption(document.myForm.building,"FedEx Institute of Technology", "FedEx Institute of Technology");  
+    addOption(document.myForm.building,"Fieldhouse", "Fieldhouse");			
+    addOption(document.myForm.building,"Fogelman College of Business", "Fogelman College of Business");		
+    addOption(document.myForm.building,"Hayden Hall", "Hayden Hall"); 	
+    addOption(document.myForm.building,"Honors Hall", "Honors Hall");
+    addOption(document.myForm.building,"Johnson Hall", "Johnson Hall");
+    addOption(document.myForm.building,"Jones Hall", "Jones Hall");		
+    addOption(document.myForm.building,"Kemmons Wilson School", "Kemmons Wilson School");
+    addOption(document.myForm.building,"Lambuth - Hyde Hall", "Lambuth - Hyde Hall");
+    addOption(document.myForm.building,"Lambuth - Library", "Lambuth - Library");	
+    addOption(document.myForm.building,"Lambuth - Student Union Building", "Lambuth - Student Union Building");
+    addOption(document.myForm.building,"Lambuth - Varnell Jones", "Lambuth - Varnell Jones");	
+    addOption(document.myForm.building,"Law School", "Law School");			  
+    addOption(document.myForm.building,"Life Sciences", "Life Sciences");			
+    addOption(document.myForm.building,"Living Learning Commons", "Living Learning Commons");		
+    addOption(document.myForm.building,"Manning Hall", "Manning Hall");		
+    addOption(document.myForm.building,"McCord Hall", "McCord Hall"); 
+		addOption(document.myForm.building,"McWherter Library", "McWherter Library");
+    addOption(document.myForm.building,"Meeman Journalism", "Meeman Journalism"); 
+    addOption(document.myForm.building,"Millington Center", "Millington Center");		    
+    addOption(document.myForm.building,"Mitchell Hall", "Mitchell Hall");
+    addOption(document.myForm.building,"Music", "Music");
+    addOption(document.myForm.building,"Mynders Hall", "Mynders Hall"); 	
+    addOption(document.myForm.building,"N A Smith Hall", "N A Smith Hall");
+    addOption(document.myForm.building,"Panhellenic Bldg.", "Panhellenic Bldg.");   
+    addOption(document.myForm.building,"Patterson Hall", "Patterson Hall");	
+    addOption(document.myForm.building,"Psychology", "Psychology");			
+    addOption(document.myForm.building,"Psychology Auditorium", "Psychology Auditorium");		
+    addOption(document.myForm.building,"Rawls Hall", "Rawls Hall"); 				  		
+    addOption(document.myForm.building,"Richardson Towers", "Richardson Towers");		
+    addOption(document.myForm.building,"Robison Hall", "Robison Hall");
+		addOption(document.myForm.building,"Smith Hall", "Smith Hall");
+    addOption(document.myForm.building,"South Hall", "South Hall"); 
+    addOption(document.myForm.building,"Student Family Housing", "Student Family Housing");		
+    addOption(document.myForm.building,"Theater Building", "Theater Building");
+    addOption(document.myForm.building,"University Center", "University Center");  
+  }
+}
+
+function removeAllOptions(selectbox)
+{
+	var i;
+	for(i=selectbox.options.length-1;i>=0;i--)
+	{
+		//selectbox.options.remove(i);
+		selectbox.remove(i);
+	}
+}
+
+function addOption(selectbox, value, text )
+{
+	var optn = document.createElement("OPTION");
+	optn.text = text;
+	optn.value = value;
+
+	selectbox.options.add(optn);
+}
+
+
+
+
+
+
+
+
+<!--Comment-->
+<!--Comment-->
+<!--Comment-->
+
+var page_id='http://www.memphis.edu/umtech/index.php'; 
+	#hidden {display: none;}
+
+Technology Resource Locator Data Query Please select the rooms you would like to view by entering the appropriate information below. CampusMain CampusColliervilleDowntownLambuthMillingtonSouth CampusBuildingArt and Communication BuildingArt BuildingAudiology: DowntownAudiology: South CampusBall HallBrowing HallCarrier CenterClement HallCommunication and Fine ArtsDunn HallEllington HallEngineering AdministrationEngineering ScienceEngineering TechnologyFedEx Institute of TechnologyFieldhouseFogelman College of BusinessHayden HallHonors HallJohnson HallJones HallKemmons Wilson SchoolLambuth - Hyde HallLambuth - LibraryLambuth - Recreation CenterLambuth - Student Union BuildingLambuth - Varnell JonesLaw: DowntownLife SciencesLiving Learning CommonsManning HallMcCord HallMcWherter LibraryMeeman JournalismMillington CenterMitchell HallMusicMynders HallN A Smith HallPanhellenic BuildingPatterson HallPsychologyPsychology AuditoriumRawls HallRichardson TowersRobison HallSmith HallSouth HallStudent Family HousingTheater BuildingUniversity CenterRoom TypeTAF LabsSmart ClassroomsOperating SystemWindowsMacNumber of WorkstationsALL1-1011-2021-5051 or more   TAFYesNoTigerLANYesNoDVDYesNoVCRYesNoDoc CamYesNoPrinterYesNo  Copyright 2013 University of Memphis Information Technology Services | 100 Adminstration Building Memphis, TN 38152 | 901.678.8888Contact UMTech | Important Notice Statement

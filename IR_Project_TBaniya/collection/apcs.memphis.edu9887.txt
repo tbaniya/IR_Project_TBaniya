@@ -1,0 +1,912 @@
+http://apcs.memphis.edu
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+		 var _gaq = _gaq || [];
+  		_gaq.push(['_setAccount', 'UA-3338257-2']);
+  		_gaq.push(['_trackPageview']);
+
+		  (function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+		
+		function taglink(category, action, label) {
+            _gaq.push(['_trackEvent', category, action, label]);
+            console.log('Tracked Event ' + category + ', ' + action + ', ' + label);
+        }
+
+
+window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js"><\/script>')
+
+
+
+
+
+Computer Science - 
+      	Computer Science
+      	 - University of Memphis
+   
+
+
+
+
+
+
+
+
+
+
+
+            (function(global) {
+                if (typeof TTDUniversalPixelApi === 'function') {
+                    var universalPixelApi = new TTDUniversalPixelApi();
+                    universalPixelApi.init("xwqkvoc", ["h3b0hyf"], "https://insight.adsrvr.org/track/up", "ttdUniversalPixelTag864d96767ed04dce8b93b207a9536774");
+                }
+            })(this);
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lambuth Campus
+myMemphis
+Webmail
+Faculty & Staff
+Contact
+Directories
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Academics 
+
+Welcome
+Colleges & Schools
+Undergraduate Catalog
+Graduate Catalog
+Honors Program
+
+
+Admissions 
+
+Welcome
+Undergraduate Students
+Graduate Students
+Law Students
+International Students
+
+
+Athletics 
+
+Welcome
+Ticket Information
+Intramurals
+Rec Center
+gotigersgo.com
+
+
+Research 
+
+Welcome
+Research Resources
+Centers/Chairs of Excellence
+Centers and Institutes
+Research Portal
+Office of Institutional Research
+
+
+Support UofM 
+
+Welcome
+Make a Gift
+Alumni Association
+Year of Service
+
+
+Libraries 
+
+Welcome
+Resources
+Services
+Special Collections
+Ask a Librarian
+
+
+
+
+
+
+
+
+
+
+
+Resources for...
+
+Prospective Students
+Current and Returning Students
+Parents
+Alumni
+Veterans
+
+Expand Menu
+
+
+
+
+
+
+Learn About the Admissions Process 
+Learn how to apply for admission to the UofM.
+
+
+Schedule a Visit 
+Tours offered weekdays at 9:30 am & 1:30 pm.
+
+
+True Blue Tiger 
+We want YOU to be a Tiger.
+
+
+Scholarships and Financial Aid 
+Apply for assistance and academic scholarships.
+
+
+
+
+Undergraduate Applications 
+Spring Deadline: Dec 15
+Get an early start on your application.
+
+
+Graduate Applications 
+
+Step Up: Start a Masters or PhD today.
+
+
+Law Applications 
+Fall 2016 Deadline: Mar 16
+Experience Memphis Law.
+
+
+International Applications 
+Spring Deadline: Dec 15
+Receive a world-class education.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"Being the first one in my family to attend college."
+READ MORE (fa fa-angle-right)
+
+
+
+
+
+
+
+
+
+
+Registration 
+Register for classes or edit your schedule.
+
+
+Student Services 
+Experience college life beyond the classroom.
+
+
+Student Organizations 
+Get engaged. Get involved. Experience more.
+
+
+Majors and Minors 
+Find your calling with over 50 degree programs.
+
+
+
+
+Course Schedule 
+View class offerings for the current and upcoming terms.
+
+
+Academic Calendars 
+Mark your calendar for start days, breaks and final exams.
+
+
+Academic Support Services 
+Improve your academic success.
+
+
+Lambuth Campus 
+Advancing the University's mission in West Tennessee.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"Continue to positively impact American education so every student recieves optimal teaching and learning, every day."
+READ MORE (fa fa-angle-right)
+
+
+
+
+
+
+
+
+
+
+
+
+
+eNews and Signup 
+Stay up-to-date with the UofM.
+
+
+Parent and Family Events 
+Join us for events held just for you!
+
+
+FAQs 
+Have a question? We have answers!
+
+
+Connect With Us 
+We are here to help you help your student.
+
+
+
+
+Scholarships & Financial Aid 
+We can help your student attend the UofM.
+
+
+Student Services 
+Resources to help your student succeed.
+
+
+Campus Card 
+Add money to your student's card for books and food.
+
+
+Give to UofM 
+Your gift to the Parent Fund makes the UofM a better place.
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+"Being the first one in my family to attend college."
+READ MORE (fa fa-angle-right)
+
+
+
+
+
+
+
+
+
+
+Join Now 
+Be True Blue and join the Alumni Association.
+
+
+Update Your Information 
+Receive University updates and the Memphis magazine.
+
+
+Clubs and Chapters 
+Get involved and stay connected to the UofM.
+
+
+Make a Gift 
+Your contribution can make a difference.
+
+
+
+
+Lambuth Chapter 
+Lambuth Graduates: Reconnect with fellow alumni.
+
+
+Upcoming Events 
+Mark your calendar for these upcoming events.
+
+
+Photo Gallery 
+View annual collections of the Alumni Association Photo Gallery.
+
+
+News 
+Stay up-to-date with Memphis Matters.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"To work with a non-profit organization that will allow me to utilize my servant leadership skills and caring ability to further enhance the socioeconomic needs of both domestic and foreign citizens."
+READ MORE  (fa fa-angle-right)
+
+
+
+
+
+
+
+
+
+
+Veterans Resource Center 
+Supporting the transition from military life to civilian life.
+
+
+Veterans Benefits and Certifications 
+Learn about Veterans Educational Benefits and Certifications.
+
+
+Get Credits Toward your Degree 
+Receive college credit for military experience, skills, and training.
+
+
+Online Degree Programs 
+Top provider of more than 50 online degree programs.
+
+
+
+
+
+
+
+
+
+
+See his story: Vietnam veteran Michael Sasseen completed his degree by earning Experiential Learning Credit (ELC) from his past experiences authoring a book and working with war veterans with PTSD.
+                                          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           			Department of Computer Science
+                           	
+
+
+
+
+
+
+
+
+
+
+
+About
+Future Students
+Current Students
+Research
+People
+Contact
+Hiring
+
+
+
+
+
+
+
+
+
+
+Home
+
+                           	Computer Science
+                           	
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Assistant/Associate Professor Positions AvailableThe Department is seeking candidates for multiple Assistant/Associate Professor positions
+                        beginning Fall 2016, pending availability of funds.
+                     
+
+Events
+
+
+
+
+T H U R SDec. 3
+                                    
+
+ 
+Graduation Pizza Party11:30 am-1:00 pm, Dunn Hall 336
+                                 
+
+
+ 
+ 
+ 
+
+
+
+W E DDec. 9
+                                    
+
+ 
+CS Faculty Meeting9:00-10:30 am, Dunn Hall 375
+                                 
+
+
+ 
+ 
+ 
+
+
+
+T H U R SDec. 10
+                                    
+
+ 
+Reception for Newly Admitted Freshmen5:00-6:00 pm, UC 304 (Bluff Room)
+                                 
+
+
+ 
+ 
+ 
+
+
+
+F R IDec. 11
+                                    
+
+ 
+CS Open House9:00 am-2:00 pm, venue TBA
+                                 
+
+
+ 
+ 
+ 
+
+
+
+S A TDec. 12
+                                    
+
+ 
+100 Girls of Code Workshop9:00 am-1:00 pm, Manning Hall 430/432
+                                 
+
+
+ 
+ 
+ 
+
+
+
+S A TDec. 12
+                                    
+
+ 
+Hour of Code9:30-11:00 am, Dunn Hall 118
+                                 
+
+
+ 
+ 
+ 
+
+
+
+See more events
+
+Department News
+CfIA Receives Cyber Security Training Grant from FEMA The Federal Emergency Management Agency (FEMA) has awarded a 2015 Continuing Training
+                        Grant of $3 million for cyber security training to the National Cybersecurity Preparedness
+                        Consortium (NCPC). The project will be led by the University of Arkansas Criminal
+                        Justice Institute; the University of Memphis Center for Information Assurance (CfIA)
+                        will collaborate on the project as a core member of the consortium.
+                     
+Student Team Wins 2nd Place at Cyber Defense Competition A team of four Computer Science students recently won second place in the prestigious
+                        CANSec Cyber Defense Competition, held in Little Rock on Oct. 24.
+                     
+Undergraduates Win NSBE HackathonUndergraduate students Herve Aniglo and Kareem Dasilva received 1st place in the first
+                        annual hackathon at the National Society of Black Engineers Region 3 Fall Regional
+                        Conference.
+                     
+CS Alumnus Tim Whitehorn to Speak at Entrepreneurs Lunch Tim Whitehorn, an alumnus of the Department's undergraduate program, will speak at
+                        the Crews Center for Entrepreneurship's lunch on Wed., Oct. 28.
+                     
+CS Names in the NewsProf. Santosh Kumar and alumnus Dr. Sidney D'Mello were recently featured in online
+                        news articles.
+                     
+mHealth Lab Has Three Papers Accepted at UbiCompThe Mobile Health Systems Lab has had three full papers accepted to this year's prestigious
+                        ACM UbiComp conference.
+                     
+See more news
+
+
+
+
+
+
+
+
+
+
+News & Events
+Weekly colloquium talks and other events
+
+
+Career Opportunities
+Internship information and job postings for students
+
+
+Degree Programs
+Information on our degree and certificate programs
+
+
+Courses
+Recent syllabi for our courses
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Full sitemap 
+
+
+
+
+Admissions
+
+
+Prospective Students
+Undergraduate
+Graduate
+Law School
+International
+Parents
+Scholarship & Financial Aid
+Tuition & Fee Payment
+FAQs
+About UofM
+
+
+
+
+Academics
+
+
+Provost's Office
+Libraries
+Transcripts
+Undergraduate Catalog
+Graduate Catalog
+Academic Calendar
+Course Schedule
+Financial Aid
+Graduation
+Honors Program
+eCourseware
+
+
+
+
+Athletics
+
+
+Gotigersgo.com
+Ticket Information
+Intramural Sports
+Recreation Center
+Athletic Academic Support
+Recruits
+Former Tigers
+Facilities
+Tiger Scholarship Fund
+Media
+
+
+
+
+
+Research
+
+
+Sponsored Programs
+Research Resources
+Centers & Institutes
+Chairs of Excellence
+FedEx Institute of Technology
+Libraries
+Grants Accounting
+Environmental Health
+Office of Institutional Research
+
+
+
+
+Support UofM
+
+
+Make a Gift
+Alumni Association
+Year of Service
+
+
+
+
+Administrative Support
+
+
+President's Office
+Academic Affairs
+Business & Finance
+Career Opportunities
+Conference & Event Services
+Development Office
+Government Relations
+Information Technology Services
+Media and Marketing
+Student Affairs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Follow UofM Online
+Facebook Twitter YouTube
+
+
+Instagram Pinterest LinkedIn
+
+
+
+
+                      
+                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Text Only
+Print
+Got a Question? Ask TOM
+Copyright 2015 University of Memphis
+Important Notice
+
+
+
+Last Updated: 11/25/15
+
+
+
+University of Memphis
+Memphis, TN 38152
+Phone: 901.678.2000
+
+The University of Memphis does not discriminate against students, employees, or applicants for admission or employment on the basis of race, color, religion, creed, national origin, sex, sexual orientation, gender identity/expression, disability, age, status as a protected veteran, genetic information, or any other legally protected class with respect to all employment, programs and activities sponsored by the University of Memphis. The following person has been designated to handle inquiries regarding non-discrimination policies: Latosha Dexter, Interim Director for Institutional Equity.  For more information see University of Memphis Equal Opportunity and Affirmative Action.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,14 @@
+<html>
+<title>Interactive Page</title>
+<script type="text/javascript">
+  function resizeIframe(iframe) {
+    iframe.height = Math.max(document.body.scrollHeight,iframe.contentWindow.document.body.scrollHeight) + "px";
+	iframe.width = document.body.scrollWidth + "px"
+  }
+</script> 
+<body>
+<form method=POST action="./cgi-bin/websearch/querysender.py" target='myiframe'>
+    <p>Search <input type=text name= key_word><input type=submit></p>
+</form>
+<div><iframe onload="resizeIframe(this)" name="myiframe" frameborder="0"></iframe></div>
+</body></html>
